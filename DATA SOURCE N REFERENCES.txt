@@ -1,0 +1,21 @@
+DATA SOURCE
+https://data.torontopolice.on.ca/datasets/TorontoPS::major-crime-indicators-open-data/about
+
+REFERENCES
+1) Data Science Earth [@ferhatmetin] (2021, January 13). Map Visualization with Folium
+https://medium.com/datasciencearth/map-visualization-with-folium-d1403771717
+ 
+2) plotly|Graphing Libraries. Dashboard API in Python/v3 [Online Dashboard]
+https://plotly.com/python/v3/create-online-dashboard-legacy/
+ 
+3) Statology [@ZACH] (2020, December 16). How to Calculate Cramer’s V in Python
+https://www.statology.org/cramers-v-in-python/
+ 
+4) Towards Data Science [@Ashwani Dhankhar] (2019, January 19). Mapping with Matplotlib, Pandas, Geopandas and Basemap in Python.
+https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac
+ 
+5) Tommaso, I. (2023). Including a librarian in the online classroom [PowerPoint slides]. Blackboard.
+https://lms.stclaircollege.ca/ultra/courses/_55847_1/cl/outline
+ 
+6) DataCamp Learn Website
+https://app.datacamp.com/learn/
